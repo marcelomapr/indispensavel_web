@@ -1,6 +1,6 @@
 {
   "name": "indispensavel",
-  "app_id": "",
+  "app_id": "972f9904",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
